@@ -41,13 +41,17 @@ between teams.
 
 Planning Phase
 ~~~~~~~~~~~~~~
-In the first part phase, you will be presented with a list of items
-that need to be done for a given team. These will move in slowly,
-but then accelerate downwards. Your goal is to triage these into
-"must do" for this level, "should do" for this level, and "might do"
-in a different level. You triage by flinging the item towards a
-target.  If you take no action, the item will go onto the "should
-do" list.
+Here you'll see a set of bar charts for each track showing the
+demand for people by skill. You'll also see a list of people by
+skills. You assign people to a track by flinging them to the
+appropriate track, or grabbing them from an existing track and
+dragging them to a new one. Every time an assignment is made, the
+bar charts are updated.
+
+From here, you can also switch views to see work by track. Given the
+current assignments, this will show what's short and consequently,
+what's at risk.
+
 
 
 
