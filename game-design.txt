@@ -1,0 +1,79 @@
+Ratchet App Design
+==================
+Rino Jose <@rjose>
+
+We'll follow along with the Android game book and go through the
+following steps:
+
+        * Game mechanics
+        * Rough back story with main characters
+        * Items, power ups
+        * Rough sketch of graphcis style based on backstory
+        * Sketches of all screens, including transitions and triggers
+
+
+Game Mechanics
+--------------
+There are 20 levels in this game. Each of them is a Quarter (i.e., 3
+months). Each level has 2 phases. The first phase is called
+"Planning". Here, you identify the work your org needs to do, break
+that work up into "tracks", and figure out how many people you need.
+
+The second phase is called "Tracking". Here, each track pulls
+from the quarter plan and breaks down the work into sprints. You
+need to look for hotspots across your teams and notify people when
+things change. You can subscribe to things you care about, and see
+what happens as soon as it happens. This is where you'll do most of
+your collaboration. You'll have ping actions that inform others or
+request more info.
+
+At the end of each level, you'll see how many points you scored and
+what achievements you've unlocked.
+
+You can engage in the planning step for any level, but tracking must
+proceed in order.
+
+Users can switch views. Changing your vertical view gives you more
+or less detail and more or less breadth of view. Switching
+horizontally, lets you pick different roles. You can also switch
+between teams.
+
+
+Planning Phase
+~~~~~~~~~~~~~~
+In the first part phase, you will be presented with a list of items
+that need to be done for a given team. These will move in slowly,
+but then accelerate downwards. Your goal is to triage these into
+"must do" for this level, "should do" for this level, and "might do"
+in a different level. You triage by flinging the item towards a
+target.  If you take no action, the item will go onto the "should
+do" list.
+
+
+
+Starting the Game
+~~~~~~~~~~~~~~~~~
+You need to log in first and then pick a role.
+
+
+Selecting the Level
+~~~~~~~~~~~~~~~~~~~
+This is where you can select which level to play next. There is only
+one Tracking level active at any point, but Planning levels can be
+started at any time.
+
+
+Backstory
+---------
+Congratulations! You are Mr. Exec and have just taken on some new
+responsibilities and are responsible for a  large team. The problem
+is that you don't know what's going on! Fortunately, you have
+a brilliant Ph.D. on your staff who's wired up all of your random
+spreadsheets into a tool he calls "Ratchet" (because you can use it
+to tighten up parts of your org).
+
+Your goal is to find out which parts of your org are loose and
+tighten them up.
+
+There are other players in this game who are trying to help you. You
+must work together in order to succeed.
