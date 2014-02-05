@@ -8,76 +8,55 @@ following steps:
         * Game mechanics
         * Rough back story with main characters
         * Items, power ups
-        * Rough sketch of graphcis style based on backstory
+        * Rough sketch of graphics style based on backstory
         * Sketches of all screens, including transitions and triggers
 
 
 Game Mechanics
 --------------
-There are 20 levels in this game. Each of them is a Quarter (i.e., 3
-months). Each level has 2 phases. The first phase is called
-"Planning". Here, you identify the work your org needs to do, break
-that work up into "tracks", and figure out how many people you need.
+You start by logging in with your LDAP credentials. You are shown a
+timeline chart of your team. The view is split into 4 Quarters.
+There are large row divisions for each track. Each line in each
+track shows a brief description of an item along with an indication
+of the target date for being complete along with the projected date.
 
-The second phase is called "Tracking". Here, each track pulls
-from the quarter plan and breaks down the work into sprints. You
-need to look for hotspots across your teams and notify people when
-things change. You can subscribe to things you care about, and see
-what happens as soon as it happens. This is where you'll do most of
-your collaboration. You'll have ping actions that inform others or
-request more info.
+When items are updated, they spin. As time goes on between updates,
+the spinning slows down. If it's been a long time since an update,
+you'll see spider webs on the projected date marker (it will also
+move out in time if that makes sense). There will probably be
+multiple tasks associated with each item (e.g., dev task, QA task,
+SRE task).
 
-At the end of each level, you'll see how many points you scored and
-what achievements you've unlocked.
+You zoom in by double tapping on a track label. You zoom out with a
+pinch.
 
-You can engage in the planning step for any level, but tracking must
-proceed in order.
+Tapping on a projected task marker (or any part of a task) will
+cause a HUD slide out. Here, you'll see more details about the task.
+You'll also be able to take certain actions on the task. You can
+create a new dependency (either a prereq or a dependent). You can
+see the dependencies for a task as well. This causes the view to
+move into a 3D view showing the tasks.
 
-Users can switch views. Changing your vertical view gives you more
-or less detail and more or less breadth of view. Switching
-horizontally, lets you pick different roles. You can also switch
-between teams.
+There are also ways to communicate with others. You can ping the
+person working on a task. You can send a message to the Tech Lead
+for a track. You broadcast an update to a task (which will cause
+messages to ripple downstream).  You can "favorite" a task,
+which will cause updates to it to show up on your feed.
 
-
-Planning Phase
-~~~~~~~~~~~~~~
-Here you'll see a set of bar charts for each track showing the
-demand for people by skill. You'll also see a list of people by
-skills. You assign people to a track by flinging them to the
-appropriate track, or grabbing them from an existing track and
-dragging them to a new one. Every time an assignment is made, the
-bar charts are updated.
-
-From here, you can also switch views to see work by track. Given the
-current assignments, this will show what's short and consequently,
-what's at risk.
-
-
-
-
-Starting the Game
-~~~~~~~~~~~~~~~~~
-You need to log in first and then pick a role.
-
-
-Selecting the Level
-~~~~~~~~~~~~~~~~~~~
-This is where you can select which level to play next. There is only
-one Tracking level active at any point, but Planning levels can be
-started at any time.
+You can switch to other team views using the selector.
 
 
 Backstory
 ---------
-Congratulations! You are Mr. Exec and have just taken on some new
-responsibilities and are responsible for a  large team. The problem
-is that you don't know what's going on! Fortunately, you have
-a brilliant Ph.D. on your staff who's wired up all of your random
-spreadsheets into a tool he calls "Ratchet" (because you can use it
-to tighten up parts of your org).
+TODO: Revise this backstory
 
-Your goal is to find out which parts of your org are loose and
-tighten them up.
+Congratulations! You have just taken on some new responsibilities
+and are responsible for a  large team. The problem is that you don't
+know what's going on! Fortunately, you've discovered an amazing tool
+called "ratchet" that will let you tighten up various parts of your
+org.
 
-There are other players in this game who are trying to help you. You
-must work together in order to succeed.
+Your goal is to get the most valuable work done in a 5 year period.
+You'll need to get some short term work done, but you'll also have
+to fight bitrot and work on things that will have long term benefit
+as well.
