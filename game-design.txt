@@ -14,11 +14,16 @@ following steps:
 
 Game Mechanics
 --------------
-You start by logging in with your LDAP credentials. You are shown a
-timeline chart of your team. The view is split into 4 Quarters.
-There are large row divisions for each track. Each line in each
-track shows a brief description of an item along with an indication
-of the target date for being complete along with the projected date.
+You start by logging in with your LDAP credentials.
+
+
+Tracking Mode
+~~~~~~~~~~~~~
+You are shown a timeline chart of your team. The view is split into
+4 Quarters.  There are large row divisions for each track. Each line
+in each track shows a brief description of an item along with an
+indication of the target date for being complete along with the
+projected date.
 
 When items are updated, they spin. As time goes on between updates,
 the spinning slows down. If it's been a long time since an update,
@@ -48,13 +53,10 @@ You can switch to other team views using the selector.
 
 Backstory
 ---------
-TODO: Revise this backstory
-
 Congratulations! You have just taken on some new responsibilities
 and are responsible for a  large team. The problem is that you don't
 know what's going on! Fortunately, you've discovered an amazing tool
-called "ratchet" that will let you tighten up various parts of your
-org.
+called "ratchet" that will let you tighten up your org.
 
 Your goal is to get the most valuable work done in a 5 year period.
 You'll need to get some short term work done, but you'll also have
