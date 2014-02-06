@@ -48,7 +48,6 @@ messages to ripple downstream).  You can "favorite" a task,
 which will cause updates to it to show up on your feed.
 
 
-
 Backstory
 ---------
 Congratulations! You have just taken on some new responsibilities
@@ -60,3 +59,16 @@ Your goal is to get the most valuable work done in a 5 year period.
 You'll need to get some short term work done, but you'll also have
 to fight bitrot and work on things that will have long term benefit
 as well.
+
+Items, power ups
+----------------
+Nothing for now.
+
+
+Sketches of all screens
+-----------------------
+
+        * Timeline view
+        * Task HUD
+        * Dependency view
+        * Ping view
