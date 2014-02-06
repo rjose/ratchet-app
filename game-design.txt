@@ -16,9 +16,6 @@ Game Mechanics
 --------------
 You start by logging in with your LDAP credentials.
 
-
-Tracking Mode
-~~~~~~~~~~~~~
 You are shown a timeline chart of your team. The view is split into
 4 Quarters.  There are large row divisions for each track. Each line
 in each track shows a brief description of an item along with an
@@ -32,7 +29,9 @@ move out in time if that makes sense). There will probably be
 multiple tasks associated with each item (e.g., dev task, QA task,
 SRE task).
 
-You zoom in by double tapping on a track label. You zoom out with a
+You zoom in by expanding with two fingers. Expanding horizontally
+will expand the dateline (e.g., zoom into a quarter). Expanding
+vertically will zoom into a track or team. You zoom out with a
 pinch.
 
 Tapping on a projected task marker (or any part of a task) will
@@ -48,7 +47,6 @@ for a track. You broadcast an update to a task (which will cause
 messages to ripple downstream).  You can "favorite" a task,
 which will cause updates to it to show up on your feed.
 
-You can switch to other team views using the selector.
 
 
 Backstory
